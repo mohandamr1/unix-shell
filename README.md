@@ -117,7 +117,7 @@ myshell> ls | grep ".cpp"
 myshell> cat < input.txt
 myshell> echo "Hello World" > output.txt
 myshell> sleep 5 &
-myshell> cd ..
+myshell> cd .
 myshell> exit
 ```
 
